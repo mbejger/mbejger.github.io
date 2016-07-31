@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Noise to signal"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Michał Bejger"
+description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -65,19 +65,19 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Michał Bejger"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Astrophysicist surfing the gravitational waves."
+  location         : "Warsaw, PL"
+  email            : "bejger@camk.edu.pl"
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "mbejger"
   google_plus      :
   keybase          :
   instagram        :
@@ -87,7 +87,8 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
+  tumblr           : "notrousers"
+  photoblog        : "https://exerciseinfail.blogspot.com" 
   twitter          :
   vine             :
   weibo            :
@@ -208,3 +209,13 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: splash 
+      author_profile: false
+

@@ -52,9 +52,6 @@
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fa fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       {% endif %}
-      {% if author.tumblr %}
-        <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
-      {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
@@ -97,6 +94,15 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+        <li></br><i>After hours:</i></li>
+
+      {% if author.photoblog %}
+        <li><a href="{{ author.photoblog }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].photoblog_label }}</a></li>
+      {% endif %}
+      {% if author.tumblr %}
+        <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fa fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
+      {% endif %}
+
     </ul>
   </div>
 </div>
