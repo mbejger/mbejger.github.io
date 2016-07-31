@@ -1,11 +1,13 @@
 ---
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "Some info about me with links"
 permalink: /about/
 sitemap: true
+header:
+  overlay_image: crab_nebula.jpg
+  overlay_color: "#333"
+  overlay_filer: 0.5 
 ---
-
-## About 
 
 I'm an associate professor at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="http://www.camk.edu.pl/">CAMK</a>) in Warsaw, Poland. I am fascinated by the extremes: neutron stars, containing the densest matter in the Universe, and black holes - incarnations of pure geometry of curved spacetime. 
 
