@@ -8,6 +8,10 @@ header:
 #  overlay_filter: rgba(16, 255, 255, 0.25)
 ---
 
+$$ 
+  a^2 + b_2 = \frac{c}{d} 
+$$ 
+
 I am fascinated by the cosmic extremes: [neutron stars](https://en.wikipedia.org/wiki/Neutron_star) composed of the densest matter currently existing in the Universe, and [black holes](https://en.wikipedia.org/wiki/Black_hole) - manifestations of pure geometry of [curved](https://en.wikipedia.org/wiki/General_relativity) [spacetime](https://en.wikipedia.org/wiki/Spacetime).
 
 To learn more about these truly unusual objects, my research interests revolve around the [gravitational-wave](https://en.wikipedia.org/wiki/Gravitational_wave) data analysis methods (and, in general, methods of analysing the difficult, noisy data) and modeling of various astrophysical compact objects using numerical general relativity and dense matter physics. This often requires a lot of coding, the use of high-performance computing (with hardware accelerators like the Graphical Processing Units) and the usage of novel types of algorithms, like the deep neural networks.  
