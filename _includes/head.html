@@ -17,9 +17,10 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+
+{% if page.usemath %}
+  {% include mathjax_support %}
+{% endif %}
 
 
 <meta http-equiv="cleartype" content="on">
