@@ -8,6 +8,7 @@ header:
 #  overlay_filter: rgba(16, 255, 255, 0.25)
 ---
 
+To test the math 
 $$ 
   a^2 + b_2 = \frac{c}{d} 
 $$ 
