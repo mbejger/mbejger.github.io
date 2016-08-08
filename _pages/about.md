@@ -9,7 +9,7 @@ header:
 ---
 
 To test the math 
-$  a^2 + b_2 = \frac{c}{d} $
+\( a^2 + b_2 = \frac{c}{d} \)
 
 I am fascinated by the cosmic extremes: [neutron stars](https://en.wikipedia.org/wiki/Neutron_star) composed of the densest matter currently existing in the Universe, and [black holes](https://en.wikipedia.org/wiki/Black_hole) - manifestations of pure geometry of [curved](https://en.wikipedia.org/wiki/General_relativity) [spacetime](https://en.wikipedia.org/wiki/Spacetime).
 
