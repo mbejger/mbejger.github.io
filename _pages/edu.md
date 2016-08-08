@@ -7,7 +7,7 @@ sitemap: true
  
 # Lecture notes
 
-## Relativistic Astrophysics and Related Computational Methods monograph slides (spring 2014):  
+## Relativistic Astrophysics and Related Computational Methods monograph lecture (spring semester 2014):  
  
 * <a href="http://users.camk.edu.pl/bejger/raarcm/intro-numerical.pdf">Introduction to numerical methods</a>
 * <a href="http://users.camk.edu.pl/bejger/raarcm/intro-hydro.pdf">Introduction to hydrodynamics</a>
@@ -19,7 +19,9 @@ sitemap: true
 * <a href="http://users.camk.edu.pl/bejger/raarcm/black-holes.pdf">Black holes</a>
 * <a href="http://users.camk.edu.pl/bejger/raarcm/gravitational-waves.pdf">Gravitational waves</a>
 
-# Outreach (popularyzacja nauki) 
+# &nbsp;  
+
+# Outreach (popularyzacja nauki), in Polish  
 
 ## Felietony i artykuły w magazynie ,,Delta''
 * <a href="http://www.deltami.edu.pl/delta/autorzy/michal_bejger/">Strona autorska</a>
