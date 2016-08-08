@@ -5,7 +5,7 @@ permalink: /about/
 sitemap: true
 header:
   overlay_image: about.jpg
-  overlay_filter: rgba(16, 255, 255, 0.25)
+#  overlay_filter: rgba(16, 255, 255, 0.25)
 ---
 
 I am fascinated by the cosmic extremes: [neutron stars](https://en.wikipedia.org/wiki/Neutron_star) composed of the densest matter currently existing in the Universe, and [black holes](https://en.wikipedia.org/wiki/Black_hole) - manifestations of pure geometry of [curved](https://en.wikipedia.org/wiki/General_relativity) [spacetime](https://en.wikipedia.org/wiki/Spacetime).
