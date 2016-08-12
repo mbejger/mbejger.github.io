@@ -11,7 +11,7 @@ title                    : "Noise to signal"
 title_separator          : "-"
 name                     : "Michał Bejger"
 description              : ""
-url                      : "http://users.camk.edu.pl/bejger/_site"
+url                      : # "http://users.camk.edu.pl/bejger/_site"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
