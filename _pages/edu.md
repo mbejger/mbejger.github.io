@@ -48,6 +48,7 @@ header:
 
 ### Materiały pularnonaukowe: 
 
+* [Zaglądanie do czarnej dziury](http://www.newsweek.pl/plus/nauka/fale-grawitacyjne-astrofizycy-potwierdzili-ich-istnienie-w-kosmosie,artykuly,387949,1,z.html) (artykuł Katarzyny Burdy, Newsweek 27/2016) 
 * [Sonda 2, odc. 20](http://vod.tvp.pl/25270514/odc-20) (Michał Bejger w rozmowie z Tomaszem Rożkiem, TVP2, 30.05.2016)
 * [''Klub Ludzi Ciekawych Wszystkiego'' o zmarszczkach czasoprzestrzeni i innych ciekawostkach astronomicznych](http://www.polskieradio.pl/8/405/Artykul/1605382,Rewelacje-nie-tylko-z-teleskopu-Hubblea) (Andrzej Królak, Michał Różyczka i Michał Bejger w rozmowie z Hanną Marią Gizą, Polskie Radio Program II, 09.04.2016)
 * [Chce mi się z Tobą gadać #81: z Adamem Zadrożnym i Michałem Bejgerem o odkryciu fal grawitacyjnych](http://radiopraga.pl/archiwum-audio/1126-81-z-adamem-zadroznym-i-michalem-bejgerem-o-odkryciu-fal-grawitacyjnych) (Adam Zadrożny i Michał Bejger w rozmowie z Agatą Koczowską, Radio Praga, 08.03.2016)
