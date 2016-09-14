@@ -1,28 +1,14 @@
 ---
-title: "Lectures & outreach" 
-permalink: /edu/
+title: "Outreach / Popularyzacja nauki" 
+permalink: /outreach/
 sitemap: true
 header: 
-  overlay_image: edu.jpg
+  overlay_image: outreach.jpg
 ---
- 
-# Lecture notes
 
-## Relativistic Astrophysics and Related Computational Methods monograph lecture (spring semester 2014):  
- 
-* <a href="http://users.camk.edu.pl/bejger/raarcm/intro-numerical.pdf">Introduction to numerical methods</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/intro-hydro.pdf">Introduction to hydrodynamics</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/intro-gr.pdf">Introduction to general relativity</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/relativstic-stars.pdf">Relativistic stars I: neutron stars' interior, spherical configurations</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/relativstic-stars-2.pdf">Relativistic stars II: rotation, phase transitions</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/instabilities.pdf">Instabilities</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/supernovae-shocks.pdf">Supernovae and shocks</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/black-holes.pdf">Black holes</a>
-* <a href="http://users.camk.edu.pl/bejger/raarcm/gravitational-waves.pdf">Gravitational waves</a>
-
-# &nbsp;  
-
-# Outreach (popularyzacja nauki), in Polish  
+A list of links to outreach materials: slides from presentations, 
+my author page of the [Delta](http://www.deltami.edu.pl) 
+magazine and other written or recorded material (in Polish).  
 
 ## Felietony i artykuły w magazynie ,,Delta''
 * <a href="http://www.deltami.edu.pl/delta/autorzy/michal_bejger/">Strona autorska</a>
