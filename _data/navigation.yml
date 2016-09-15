@@ -4,5 +4,8 @@ main:
   - title: "About" 
     url: /about/
 
-  - title: "Lectures & outreach"
-    url: /edu/ 
+  - title: "Lectures"
+    url: /lectures/ 
+
+  - title: "Outreach/popularyzacja"
+    url: /outreach/ 
