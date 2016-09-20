@@ -4,7 +4,7 @@ main:
   - title: "About" 
     url: /about/
 
-  - title: "Lectures"
+  - title: "Lecture notes"
     url: /lectures/ 
 
   - title: "Outreach/popularyzacja"

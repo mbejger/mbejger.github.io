@@ -2,7 +2,6 @@
 title: "Matched filter and signal-to-noise for a periodic template"
 excerpt: "Fourier transform as the simplest matched filter"
 sitemap: true
-usemath: true 
 ---
 
 While playing with the [`find_inspiral.py` optimal match filter 
@@ -11,10 +10,10 @@ script](https://losc.ligo.org/tutorial_optimal) from the
 it for a simpler purpose of a purely periodic gravitational wave 
 (similar to those emitted by rotating deformed neutron stars). 
 This example shows the simplest matched filter - the Fourier transform - 
-and compares the signal-to-noise ratio from the optimal filter 
-(template is actually the added signal) to an signal-to-noise estimate. 
+and compares the signal-to-noise ratio from the optimal filter, which uses 
+the actual signal as a template is actually the added signal, 
+to an signal-to-noise estimate. 
 Sample data and the signal may be generated as follows:    
-
 
 ```python
 """
@@ -57,12 +56,12 @@ The resulting figure is
 
 ![gaussian noise plus signal](../images/gaussian_noise_w_signal.png)
 
-The signal is buried so deeply in the noise that it's not apparent 
-at all that it actually is there. Fortunarely, we have several techniques 
+The signal is hidden so deep in the noise that it's not at all apparent 
+that it actually is there. Fortunarely, we have several techniques 
 to try and find out whether the signal is present in the noisy data 
 or not. One of the most powerful is the 
 [matched filter](https://en.wikipedia.org/wiki/Matched_filter) method. 
-The case of a sinusoidal signal is interesting, because the matched filter 
+The case of a sinusoidal signal is informative, because the matched filter 
 is just the Fourier transform. 
 
 ```python
@@ -92,13 +91,14 @@ plt.savefig("fft_gaussian_noise_w_signal.png", format="png", bbox_inches="tight"
 
 ```
  
-The method `np.fft.fftfreq` conveniently produces the frequency bins in cycles per unit of the sample spacing. We get             
+The method [`np.fft.fftfreq`](http://docs.scipy.org/doc/numpy/reference/generated/numpy.fft.fftfreq.html) conveniently produces the frequency bins in cycles per unit of the sample spacing up to the half of the sampling frequency (the [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)). We get             
 
 ![gaussian noise plus signal](../images/fft_gaussian_noise_w_signal.png)
 
-Let's have a look at the power spectrum density of the data and compare 
-it with the pure signal. Amplitude spectral density used in the GW data 
-analysis is the square root of the power spectral density. 
+One may also have a look at the spectrum density of the data and compare 
+it with the pure signal. Instad of the power spectral density, the amplitude 
+spectral density is used in the GW data analysis, because what is measured is 
+the GW strain amplitude. ASD is the square root of the PSD. 
 
 ```python 
 """
@@ -126,12 +126,12 @@ plt.savefig("amplitude_spectrum.png", format="png", bbox_inches="tight")
 ``` 
 The plot shows the amplitude spectral density of the data (mostly noise) 
 and the signal (in red) with a peak at frequency corresponding to the 
-frequency `ome=17`. 
+chosen frequency `ome=17`. 
 
 ![amplitude spectrum](../images/amplitude_spectrum.png)
 
 Let's check now if we can recover the signal with the properly implemented 
-matched filter using the FFT. The relevant few lines of code is 
+matched filter using the FFT. The relevant few lines of code are  
 
 ```python
 """
@@ -142,7 +142,8 @@ Optimal matched filter
 # (in the region where is no signal)
 power_vec = np.interp(sample_freq, freq_psd[2*ome:], power_data[2*ome:])
 
-# Applying the optimal matched filter (template is the added signal)
+# Applying the optimal matched filter (template is the added signal, 
+# in general case one should go through the parameters space of the filter bank)
 optimal_filter = 2*np.fft.ifft(data_fft*template_fft.conjugate()/power_vec) 
 
 # Normalize the matched filter output
@@ -158,20 +159,33 @@ The output depends somehow on the realization of noise, but it's about 10.
 The SNR can be estimated by taking approximate values of the Fourier transform 
 integrals defined above. 
 
-The optimal filter is defined as 
-$$
-x(t) = 4\Re\int_{0}^{\infty}\frac{\tilde{s}(f)\tilde{h}_{\text{template}}^\ast(f)}{S_n(f)} \e^{2\pi ift} df, 
-$$ 
-where $\tilde{s}(f)$ is the Fourier transform of the time-domain data, 
+For the additive noise process, the data $s(t)$ is defined as the sum of 
+the signal and the noise: 
 
 $$
-  \tilde{s}(f) = \int_{-\infty}^\infty s(t) \e^{-2\pi ift} dt.
+s(t) = h(t) + n(t). 
+$$ 
+
+The optimal filter is defined as 
+
+$$
+4\Re\int_{0}^{\infty}\frac{\tilde{s}(f)\tilde{h}_{\text{template}}^\ast(f)}{S_n(f)} \mathrm{e}^{2\pi ift} df, 
+$$ 
+
+where the $*$ symbol denotes complex conjugation, $\Re$ is the real part of the integral, and 
+$\tilde{h}_{\text{template}}(f)$ and $\tilde{s}(f)$ are the Fourier transform of the 
+time-domain template and the data:  
+
+$$
+  \tilde{s}(f) = \int_{-\infty}^\infty s(t) \mathrm{e}^{-2\pi ift} dt.
+$$
+
+The inverse Fourier transform is
+
+$$
+  s(t) = \int_{-\infty}^\infty \tilde{s}(f) \mathrm{e}^{2\pi ift} df
 $$
  
-
-
-
-
 
 ```python 
 # Estimate of the signal-to-noise 
