@@ -76,7 +76,7 @@ data_fft = np.fft.fft(data)
 # Sampling frequencies up to the Nyquist limit (fs/2)  
 sample_freq = np.fft.fftfreq(t.shape[-1], 1./fs)
 
-# FT power normalized by T
+# FT power 
 plt.figure()
 plt.plot(sample_freq, np.abs(template_fft)/np.sqrt(fs), color="red", alpha=0.5, linewidth=4)
 plt.plot(sample_freq, np.abs(data_fft)//np.sqrt(fs), color="grey")
@@ -89,7 +89,6 @@ plt.ylabel('FT power')
 plt.grid(True)
 
 plt.savefig("fft_gaussian_noise_w_signal.png", format="png", bbox_inches="tight")
-
 ```
  
 The method [`np.fft.fftfreq`](http://docs.scipy.org/doc/numpy/reference/generated/numpy.fft.fftfreq.html) conveniently produces the frequency bins in cycles per unit of the sample spacing up to the half of the sampling frequency (the [Nyquist frequency](https://en.wikipedia.org/wiki/Nyquist_frequency)). We get             
@@ -123,7 +122,6 @@ plt.ylabel('Amplitude spectral density (ASD)')
 plt.grid(True)
 
 plt.savefig("amplitude_spectrum.png", format="png", bbox_inches="tight")
-
 ``` 
 The plot shows the amplitude spectral density of the data (mostly noise) 
 and the signal (in red) with a peak at frequency corresponding to the 
@@ -154,8 +152,9 @@ SNR_optimal = np.sqrt(np.abs(optimal_filter)/fs)
 # Estimate of the signal-to-noise 
 SNR_estimate = amp*np.sqrt(T)/np.sqrt(np.average(power_vec))
 
-print SNR_estimate, np.max(SNR_optimal), np.max(SNR_matched)
+print "SNR_estimate", SNR_estimate, "SNR_optimal", np.max(SNR_optimal), "SNR_matched", np.max(SNR_matched)
 ```
+
 The output depends on the realization of noise. The SNR can be estimated by approximating the output of the matched filter. 
 
 Let's define the scalar product $(x\lvert y)$ using the Fourier transform: 
@@ -209,16 +208,16 @@ $$
   \frac{1}{T_0}\int_0^{T_0} \cos(n\phi(t))dt \approx \frac{1}{T_0}\int_0^{T_0} \sin(n\phi(t))dt \approx 0
 $$  
 
-for $n>0$. Integrating the $\rho^2$ gives approximately  
+for integers $n>0$. Integrating the $\rho^2$ for $h(t) = h_0\cos(\phi(t) + \phi_0)$ gives approximately  
 
 $$ 
-  \rho^2 = \frac{2}{S_0}\int_0^{T_0} \left(h(t)\right)^2 dt = \frac{2}{S_0}\int_0^{T_0} h_0^2\cos^2(\phi(t) + \phi_0) dt \approx h_0^2\frac{T_0}_0{S_0}. 
+  \rho^2 = \frac{2}{S_0}\int_0^{T_0} \left(h(t)\right)^2 dt = \frac{2}{S_0}\int_0^{T_0} h_0^2\cos^2(\phi(t) + \phi_0) dt \approx h_0^2\frac{T_0}{S_0}. 
 $$ 
 
 The estimate for the optimal signal to noise ratio for a periodic signal of the amplitude $h_0$ is therefore 
 
 $$
-  \rho \approx h_0\left\frac{T_0}{S_0}\right)^{1/2}. 
+  \rho \approx h_0\left(\frac{T_0}{S_0}\right)^{1/2}. 
 $$
 
 For [this](../data/data_and_template.hdf5) data and template packed in the `hdf5` format, 
@@ -226,10 +225,9 @@ I get
 
 ```
 SNR_estimate 10.1863371439 SNR_optimal 11.5740920133 SNR_matched 11.5128482391
-
 ```
 
-(here is how to read the `hdf5`). 
+Here is how to read in the `hdf5`:  
 
 
 ```python
@@ -240,5 +238,4 @@ dataFile = h5py.File('data_and_template.hdf5', 'r')
 data = dataFile['datawsignal'][...]
 template = dataFile['template'][...]
 dataFile.close()
-
 ```
