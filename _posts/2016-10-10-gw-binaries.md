@@ -8,7 +8,7 @@ usemath: false
 I recently wrote two introductory articles (one in English, one in Polish) about the basics of gravitational wave emission from inspiraling binary systems: 
 
 * [Distance measurements](../data/gw_distances.pdf) from the gravitational-wave observations, 
-* [Rzędy wielkości, skalowanie oraz ,,Newtonowskie intuicje''](../data/newtgw.pdf) dla układu podwójnego emitującego fale grawitacyjne.      
+* [Rzędy wielkości, skalowanie oraz ,,Newtonowskie intuicje''](../data/newtfg.pdf) dla układu podwójnego emitującego fale grawitacyjne.      
 
 Related arXiv articles:
  
