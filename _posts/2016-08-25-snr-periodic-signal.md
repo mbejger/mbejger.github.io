@@ -239,3 +239,5 @@ data = dataFile['datawsignal'][...]
 template = dataFile['template'][...]
 dataFile.close()
 ```
+
+Check out this [gist](https://gist.github.com/mbejger/db2b3479c4bccc771e26c1604388bcc3) for the whole script. 

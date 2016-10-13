@@ -6,8 +6,8 @@ header:
   overlay_image: outreach.jpg
 ---
 
-A list of links to outreach materials: slides from presentations, 
-my author page of the [Delta](http://www.deltami.edu.pl) 
+A list of links to some outreach materials: slides from presentations, 
+my author page in the [Delta](http://www.deltami.edu.pl) 
 magazine and other written or recorded material (in Polish).  
 
 ## Felietony i artykuły w magazynie ,,Delta''
@@ -16,19 +16,19 @@ magazine and other written or recorded material (in Polish).
 ## Prezentacje i wykłady
  
 ### ,,Prosto z nieba'' w Centrum Nauki Kopernik: 
-* <a href="gwiazdy_neutronowe_i_czarne_dziury.pdf">,,Gwiazdy neutronowe & czarne dziury''</a> 
+* <a href="../talks/gwiazdy_neutronowe_i_czarne_dziury.pdf">,,Gwiazdy neutronowe & czarne dziury''</a> 
 
 ### Spotkania z astronomią w Centrum Astronomicznym PAN: 
-* <a href="wyklad.ppt">,,Niezwykłe efekty w pobliżu czarnych dziur''</a>
-* <a href="gwiazdy_neutronowe.pdf">,,Gwiazdy neutronowe''</a>
-* <a href="240111.pdf">,,(G)astronomiczne nazewnictwo''</a>
-* <a href="falegrawitacyjne.odp">,,Fale grawitacyjne''</a>
-* <a href="deg.pdf">,,Kosmiczni degeneraci''</a>
-* <a href="czym_jest_nauka.pdf">,,Czym jest nauka? (na przykładzie astronomii)''</a>
-* <a href="gw150914.pdf">,,Fale grawitacyjne - pierwsza bezpośrednia detekcja fal''</a>
+* <a href="../talks/wyklad.ppt">,,Niezwykłe efekty w pobliżu czarnych dziur''</a>
+* <a href="../talks/gwiazdy_neutronowe.pdf">,,Gwiazdy neutronowe''</a>
+* <a href="../talks/240111.pdf">,,(G)astronomiczne nazewnictwo''</a>
+* <a href="../talks/falegrawitacyjne.odp">,,Fale grawitacyjne''</a>
+* <a href="../talks/deg.pdf">,,Kosmiczni degeneraci''</a>
+* <a href="../talks/czym_jest_nauka.pdf">,,Czym jest nauka? (na przykładzie astronomii)''</a>
+* <a href="../talks/gw150914.pdf">,,Fale grawitacyjne - pierwsza bezpośrednia detekcja fal''</a>
 
 ### Inne wykłady: 
-* <a href="tnw080616.pdf">,,Pierwsza bezposrednia obserwacja fal grawitacyjnych''
+* <a href="../talks/tnw080616.pdf">,,Pierwsza bezposrednia obserwacja fal grawitacyjnych''
                 (Towarzystwo Naukowe Warszawskie, 8 czerwca 2016)
                 </a>
 
