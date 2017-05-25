@@ -26,6 +26,7 @@ magazine and other written or recorded material (in Polish).
 * <a href="../talks/deg.pdf">,,Kosmiczni degeneraci''</a>
 * <a href="../talks/czym_jest_nauka.pdf">,,Czym jest nauka? (na przykładzie astronomii)''</a>
 * <a href="../talks/gw150914.pdf">,,Fale grawitacyjne - pierwsza bezpośrednia detekcja fal''</a>
+* <a href="../talks/fg_afterO1.pdf">,,Fale grawitacyjne - wyniki kampanii obserwacyjnej O1''</a>
 
 ### Inne wykłady: 
 * <a href="../talks/tnw080616.pdf">,,Pierwsza bezposrednia obserwacja fal grawitacyjnych''
