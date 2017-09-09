@@ -35,6 +35,7 @@ magazine and other written or recorded material (in Polish).
 
 ### Materiały pularnonaukowe: 
 
+* [SKANER Space24 o falach grawitacyjnych](http://www.space24.pl/653920,skaner-space24-bejger-o-falach-grawitacyjnych-bardzo-trudno-jest-wygiac-czasoprzestrzen-tak-by-zaczela-drgac) (rozmowa z Pawłem Ziemnickim, 30.08.17)  
 * [Zaglądanie do czarnej dziury](http://www.newsweek.pl/plus/nauka/fale-grawitacyjne-astrofizycy-potwierdzili-ich-istnienie-w-kosmosie,artykuly,387949,1,z.html) (artykuł Katarzyny Burdy, Newsweek 27/2016) 
 * [Sonda 2, odc. 20](http://vod.tvp.pl/25270514/odc-20) (Michał Bejger w rozmowie z Tomaszem Rożkiem, TVP2, 30.05.2016)
 * [''Klub Ludzi Ciekawych Wszystkiego'' o zmarszczkach czasoprzestrzeni i innych ciekawostkach astronomicznych](http://www.polskieradio.pl/8/405/Artykul/1605382,Rewelacje-nie-tylko-z-teleskopu-Hubblea) (Andrzej Królak, Michał Różyczka i Michał Bejger w rozmowie z Hanną Marią Gizą, Polskie Radio Program II, 09.04.2016)
