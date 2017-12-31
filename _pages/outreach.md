@@ -37,7 +37,7 @@ magazine and other written or recorded material (in Polish).
 
 * [Astronarium, odc. 48](https://www.youtube.com/watch?v=anyJW7u1Euw) (25.11.17)
 * [Skąd się bierze długość Plancka?](http://www.deltami.edu.pl/temat/fizyka/fizyka_kwantowa/2017/10/23/Skad_sie_bierze_dlugosc_Plancka/) (Michał Bejger, [Delta](http://www.deltami.edu.pl) 11/2017)
-* [Radiowa Akademia Nauk, Wykryto jednocześnie fale grawitacyjne i światło od zderzenia gwiazd neutronowych](Wykryto jednocześnie fale grawitacyjne i światło od zderzenia gwiazd neutronowych) (rozmowa z Karoliną Głowacką, 21.10.17) 
+* [Radiowa Akademia Nauk, Wykryto jednocześnie fale grawitacyjne i światło od zderzenia gwiazd neutronowych](http://audycje.tokfm.pl/podcast/Wykryto-jednoczesnie-fale-grawitacyjne-i-swiatlo-od-zderzenia-gwiazd-neutronowych/55192) (rozmowa z Karoliną Głowacką, 21.10.17) 
 * [Czy grawiton da się wykryć?](http://www.deltami.edu.pl/temat/fizyka/grawitacja_i_wszechswiat/2017/09/20/Czy_grawiton_da_sie_wykryc/) (Michał Bejger, [Delta](http://www.deltami.edu.pl) 10/2017)
 * [SKANER Space24 o falach grawitacyjnych](http://www.space24.pl/653920,skaner-space24-bejger-o-falach-grawitacyjnych-bardzo-trudno-jest-wygiac-czasoprzestrzen-tak-by-zaczela-drgac) (rozmowa z Pawłem Ziemnickim, 30.08.17)  
 * [Zaglądanie do czarnej dziury](http://www.newsweek.pl/plus/nauka/fale-grawitacyjne-astrofizycy-potwierdzili-ich-istnienie-w-kosmosie,artykuly,387949,1,z.html) (artykuł Katarzyny Burdy, Newsweek 27/2016) 
