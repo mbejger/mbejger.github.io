@@ -1,0 +1,6 @@
+# compile 
+gcc -o getinfo getinfo.c -fopenmp -Wall
+
+# run 
+./getinfo
+#OMP_NUM_THREADS=4 ./getinfo

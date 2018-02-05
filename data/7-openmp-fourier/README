@@ -1,0 +1,2 @@
+gcc -o fftw-simple fftw-simple.c timer.c -lfftw3 -lm -Wall 
+gcc -o fftw-openmp fftw-openmp.c timer.c -lfftw3_omp -lfftw3 -lm -Wall -fopenmp 

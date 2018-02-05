@@ -1,0 +1,10 @@
+# compile
+gcc -o race race.c -fopenmp -Wall
+gcc -o isum main.c isum.c timer.c -fopenmp -Wall
+gcc -o openmpsum main.c openmpsum.c timer.c -fopenmp -Wall
+
+# run 
+./isum 
+OMP_NUM_THREADS=4 ./openmpsum
+
+

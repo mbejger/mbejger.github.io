@@ -1,0 +1,6 @@
+# compile 
+gcc -o reduction-max reduction-max.c -fopenmp -Wall
+
+# run 
+./reduction-max
+#OMP_NUM_THREADS=4 ./reduction-max

@@ -1,0 +1,6 @@
+# compile 
+gcc -o helloworld helloworld.c -fopenmp -Wall
+
+# run 
+./helloworld
+#OMP_NUM_THREADS=4 ./helloworld

@@ -1,0 +1,6 @@
+# compile 
+gcc -o workshare workshare.c -fopenmp -Wall
+
+# run 
+./workshare
+#OMP_NUM_THREADS=4 ./workshare

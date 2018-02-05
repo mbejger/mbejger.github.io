@@ -1,0 +1,8 @@
+# compile 
+gcc -o serial-psum serial-psum.c -Wall
+gcc -o parallel-psum parallel-psum.c -Wall -fopenmp
+
+# run 
+./serial-psum
+./parallel-psum
+
