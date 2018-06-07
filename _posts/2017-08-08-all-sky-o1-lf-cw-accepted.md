@@ -13,4 +13,4 @@ See also:
  
 * [arXiv preprint](https://arxiv.org/abs/1707.02667)
 * [PRD in press](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.062002) 
-
+* [Science summary](https://www.ligo.org/science/Publication-O1Allskylowfreq/index.php) 
