@@ -5,5 +5,5 @@ sitemap: true
 usemath: false  
 ---
 
-I was interviewed at length [in Polish](http://www.dzieje.pl/aktualnosci/m-bejger-w-pewnym-sensie-kopernik-napisal-o-obrotach-cial-niebieskich-bo-rzeczywistosc) and a bit shorter [in English](Copernicus: the man who discovered earth moves around the sun). This was fun :-)
+I was interviewed at length [in Polish](http://www.dzieje.pl/aktualnosci/m-bejger-w-pewnym-sensie-kopernik-napisal-o-obrotach-cial-niebieskich-bo-rzeczywistosc) and a bit shorter [in English](https://www.thefirstnews.com/article/copernicus-the-man-who-discovered-earth-moves-around-the-sun). This was fun :-)
 

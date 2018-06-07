@@ -5,5 +5,5 @@ sitemap: true
 usemath: false  
 ---
 
-Check out [this link](view-source:https://www.ligo.caltech.edu/page/detection-companion-papers) 
+Check out [this link](https://www.ligo.caltech.edu/page/detection-companion-papers).  
 
