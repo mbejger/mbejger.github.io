@@ -35,6 +35,9 @@ magazine and other written or recorded material (mostly in Polish).
 
 ### Wybrane materiały pularnonaukowe: 
 
+* &#128240; [O powstawaniu pierwiastków](http://www.deltami.edu.pl/temat/astronomia/astrofizyka/2018/06/21/O_powstawaniu_pierwiastkow/) (Michał Bejger, miesięcznik [Delta](http://www.deltami.edu.pl) 07/2018)
+* &#128240; [Czarna dziura, która rozerwała gwiazdę](http://www.newsweek.pl/wiedza/nauka/czarne-dziury-w-kosmosie-rozmowa-z-michalem-bejgerem,artykuly,429591,1.html) (rozmowa z Katarzyną Burdą, newsweek.pl 03.07.2018) 
+* &#128240; [O Koperniku i rewolucji naukowej](http://www.dzieje.pl/aktualnosci/m-bejger-w-pewnym-sensie-kopernik-napisal-o-obrotach-cial-niebieskich-bo-rzeczywistosc) (rozmowa z Anną Kruszyńską, dzieje.pl 24.05.2018)
 * &#128240; [Pierwsza jednoczesna detekcja fal grawitacyjnych i fotonów](http://www.deltami.edu.pl/temat/fizyka/grawitacja_i_wszechswiat/2017/11/22/Pierwsza_jednoczesna_detekcja_fal/) (Michał Bejger, miesięcznik [Delta](http://www.deltami.edu.pl) 12/2017)
 * &#128250; [Astronarium, odc. 48](https://www.youtube.com/watch?v=anyJW7u1Euw) (TVP, 25.11.17)
 * &#128240; [Kosmiczne grzmoty i błyski](https://archiwum.polityka.pl/art/kosmiczne-grzmoty-i-blyski,387018.html) (Michał Bejger, 18.10.2017, tygodnik Polityka nr 42 (3132) 2017)
