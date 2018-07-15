@@ -1,6 +1,6 @@
 ---
-title: "A day when I was an expert on Copernicus"
-excerpt: "On the 24th of May 1543 Nicolaus Copernicus died in Frombork"
+title: "That day when I was an expert on Nicolaus Copernicus"
+excerpt: "To commemorate his death on the 24th of May, 1543"
 sitemap: true
 usemath: false  
 ---

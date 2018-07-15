@@ -1,6 +1,6 @@
 ---
 title: "Find unused \\bibitem in LaTeX documents"
-excerpt: "Python re module to analyze tex and aux files"
+excerpt: "Using python `re` module to analyze `.tex` and `.aux` files"
 sitemap: true
 usemath: false  
 ---
