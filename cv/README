@@ -1,2 +1,2 @@
 xelatex mbejger_cv.tex; biber mbejger_cv; xelatex mbejger_cv.tex; xelatex mbejger_cv.tex
-mv mbejger_cv.pdf ../_site 
+#mv mbejger_cv.pdf ../_site 
