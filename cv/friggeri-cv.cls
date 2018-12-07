@@ -251,7 +251,8 @@
     \printlist{publisher}%
     \setunit*{\addcomma\space}%
     \printfield{year}%
-    \newunit%
+    \setunit{\space} 
+    (\printfield{eprint})% 
   }
   \par\vspace{0.3\baselineskip}
 }
