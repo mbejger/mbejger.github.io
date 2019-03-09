@@ -67,7 +67,7 @@ google_ad_slot           :
 author:
   name             : "Michał Bejger"
   avatar           : "bio-photo.jpg"
-  bio              : "Astrophysicist surfing the gravitational waves."
+  bio              : "Astrophysicist surfing the gravitational waves</br></br>(    (   ((  ((( *o )))  ))   )    )"
   location         : "Warsaw, PL / Paris, FR"
   email            : "bejger@camk.edu.pl"
   uri              :  
@@ -80,16 +80,16 @@ author:
   github           : "mbejger"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/michal.bejger"
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "notrousers"
-  photoblog        : "https://exerciseinfail.blogspot.com" 
-  twitter          :
+  tumblr           : #"notrousers"
+  photoblog        : #"https://exerciseinfail.blogspot.com" 
+  twitter          : "https://twitter.com/michalbejger" 
   vine             :
   weibo            :
   xing             :
