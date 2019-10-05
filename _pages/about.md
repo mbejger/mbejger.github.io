@@ -13,7 +13,11 @@ To learn more about these unusual objects, my research interests revolve around 
 I work at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="http://www.camk.edu.pl/">CAMK</a>) in Warsaw, Poland as an associate professor. In 2018 I've spent a year at the [APC](http://www.apc.univ-paris7.fr/APC_CS/) in Paris working in the [gravitation group](http://www.apc.univ-paris7.fr/APC_CS/en/gravitation-0) on problems related to astrophysics and machine learning. 
 
 My published works are accesible online thanks to the 
-<a href="http://arxiv.org/find/grp_physics/1/au:+bejger/0/1/0/all/0/1">arXiv</a> and <a href="http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?db_key=AST&amp;db_key=PHY&amp;db_key=PRE&amp;qform=AST&amp;arxiv_sel=astro-ph&amp;arxiv_sel=cond-mat&amp;arxiv_sel=cs&amp;arxiv_sel=gr-qc&amp;arxiv_sel=hep-ex&amp;arxiv_sel=hep-lat&amp;arxiv_sel=hep-ph&amp;arxiv_sel=hep-th&amp;arxiv_sel=math&amp;arxiv_sel=math-ph&amp;arxiv_sel=nlin&amp;arxiv_sel=nucl-ex&amp;arxiv_sel=nucl-th&amp;arxiv_sel=physics&amp;arxiv_sel=quant-ph&amp;arxiv_sel=q-bio&amp;sim_query=YES&amp;ned_query=YES&amp;adsobj_query=YES&amp;aut_logic=OR&amp;obj_logic=OR&amp;author=bejger%2C+m.&amp;object=&amp;start_mon=&amp;start_year=&amp;end_mon=&amp;end_year=&amp;ttl_logic=OR&amp;title=&amp;txt_logic=OR&amp;text=&amp;nr_to_return=200&amp;start_nr=1&amp;jou_pick=ALL&amp;ref_stems=&amp;data_and=ALL&amp;group_and=ALL&amp;start_entry_day=&amp;start_entry_mon=&amp;start_entry_year=&amp;end_entry_day=&amp;end_entry_mon=&amp;end_entry_year=&amp;min_score=&amp;sort=SCORE&amp;data_type=SHORT&amp;aut_syn=YES&amp;ttl_syn=YES&amp;txt_syn=YES&amp;aut_wt=1.0&amp;obj_wt=1.0&amp;ttl_wt=0.3&amp;txt_wt=3.0&amp;aut_wgt=YES&amp;obj_wgt=YES&amp;ttl_wgt=YES&amp;txt_wgt=YES&amp;ttl_sco=YES&amp;txt_sco=YES&amp;version=1">NASA ADS</a> databases. Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">scientific CV</a>. 
+<a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and   
+<a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> databases. 
+
+Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">scientific CV</a>.
+ 
 
 ## My group in Warsaw: 
 
