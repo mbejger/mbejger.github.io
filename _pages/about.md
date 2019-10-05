@@ -13,8 +13,7 @@ To learn more about these unusual objects, my research interests revolve around 
 I work at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="http://www.camk.edu.pl/">CAMK</a>) in Warsaw, Poland as an associate professor. In 2018 I've spent a year at the [APC](http://www.apc.univ-paris7.fr/APC_CS/) in Paris working in the [gravitation group](http://www.apc.univ-paris7.fr/APC_CS/en/gravitation-0) on problems related to astrophysics and machine learning. 
 
 My published works are accesible online thanks to the 
-<a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and   
-<a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> databases. 
+<a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and <a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> databases. 
 
 Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">scientific CV</a>.
  
