@@ -159,7 +159,6 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-#gems:
 plugins_dir: 
   - jekyll-paginate
   - jekyll-sitemap
@@ -175,7 +174,7 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-gems: [jekyll-paginate] 
+plugins: [jekyll-paginate] 
 
 # Archives
 #  Type
