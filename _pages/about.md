@@ -20,7 +20,7 @@ Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.p
 
 ## My group in Warsaw: 
 
-* Magdalena Sieniawska (PhD student), 
+* dr Magdalena Sieniawska, 
 * Filip Morawski (PhD student), 
 * dr Jonas P. Pereira (post-doc), 
 * dr Paweł Ciecieląg (CAMK staff).
