@@ -5,5 +5,6 @@ sitemap: true
 usemath: false  
 ---
 
-I was interviewed at length [in Polish](http://www.dzieje.pl/aktualnosci/m-bejger-w-pewnym-sensie-kopernik-napisal-o-obrotach-cial-niebieskich-bo-rzeczywistosc) and a bit shorter [in English](https://www.thefirstnews.com/article/copernicus-the-man-who-discovered-earth-moves-around-the-sun). This was fun :-)
+I was interviewed at length [in Polish](https://kultura.gazetaprawna.pl/artykuly/1125888,kopernik-i-model-heliocentryczny.html) and a bit shorter [in English](https://www.thefirstnews.com/article/copernicus-the-man-who-discovered-earth-moves-around-the-sun). This was fun :-) Never underestimate the power of frustration in the scientific breaktrough process: 
 
+> As Dr Michał Bejger from the Polish Academy of Sciences explains: “There were enough detailed observations and frustration around trying to fix old theories, along with the advancement in mathematics, that meant Copernicus was better able to demonstrate the details of the model, and ‘get through to people’”. 
