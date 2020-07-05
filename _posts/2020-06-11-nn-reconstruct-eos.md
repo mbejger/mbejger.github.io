@@ -5,7 +5,7 @@ sitemap: true
 usemath: false  
 ---
 
-Our [recent work](https://arxiv.org/abs/2006.07194) related to teaching a ML algorithm to reconstruct the dense-matter equation of state (used to build a structure of neutron stars), from simulated observations of neutron stars: their gravitational masses $M$, radii (from the EM observations) as well as tidal deformabilities $\Lambda$ (first observed in the [GW170817](https://arxiv.org/abs/1805.11579) event). 
+Our [recent work](https://arxiv.org/abs/2006.07194) describes a ML algorithm teaching process to reconstruct the dense-matter equation of state, used to build a structure of neutron stars, from simulated observations of neutron stars: their gravitational masses $M$, radii (from the EM observations) as well as tidal deformabilities $\Lambda$ (first observed in the [GW170817](https://arxiv.org/abs/1805.11579) event). 
 
 We have also checked that one can infer radius, which is not directly measured by gravitational-wave detectors, from the tidal deformability measurements. It works very well with a relatively simple artificial neural network: 
 
