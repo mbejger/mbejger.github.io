@@ -1,5 +1,4 @@
-Professional website of Michał Bejger (+blogging platform) 
-based in the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
+Professional [website](http://users.camk.edu.pl/bejger) of Michał Bejger (+blogging platform) based in the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
 
 ## License
 
