@@ -9,7 +9,7 @@ Our [recent work](https://arxiv.org/abs/2006.07194) describes a ML algorithm tea
 
 We have trained a neural network on a set of artificial equations of state (piecewise relativistic polytropes) and are able to demonstrate that the network can recover realistic microphysical equations of state - this means that the network can generalize the concept. 
 
-{% include image.html url="/images/2006.07194_fig7.png" description="ANN reconstructed EOS using the M(R) data for the SLy4 EOS model (left plot), the APR EOS model (middle plot) and the BSK20 EOS model (right plot) for the uniform NS mass distribution." %}
+{% include image.html url="2006.07194_fig7.png" description="ANN reconstructed EOS using the M(R) data for the SLy4 EOS model (left plot), the APR EOS model (middle plot) and the BSK20 EOS model (right plot) for the uniform NS mass distribution." %}
 
 We have also checked that one can infer radius, which is not directly measured by gravitational-wave detectors, from the tidal deformability measurements. It works very well with a relatively simple artificial neural network. The complete abstract is as follows:   
 

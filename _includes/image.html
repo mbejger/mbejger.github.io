@@ -1,4 +1,6 @@
+{% include base_path %} 
+
 <figure class="image">
-  <img src="{{ include.url }}" alt="{{ include.description }}">
+  <img src="{{ base_path }}/images/{{ include.url }}" alt="{{ include.description }}">
   <figcaption>{{ include.description }}</figcaption>
 </figure>
