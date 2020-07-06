@@ -14,5 +14,5 @@ The PhD thesis is based on 4 published articles:
 * [Follow-up procedure for gravitational wave searches from isolated neutron stars using the time-domain $\mathcal{F}$-statistic method](https://iopscience.iop.org/article/10.1088/1361-6382/ab3ee5)
 * [Continuous Gravitational Waves from Neutron Stars: Current Status and Prospects](https://www.mdpi.com/2218-1997/5/11/217)
 
-The Scientific Council of CAMK honored the defence _summa cum laude_. The recording of the defence is [available on youtube](youtube.com/watch?v=QnH-2lA189o).
+The Scientific Council of CAMK granted the thesis defence the _cum laude_ honors. The recording is [available on youtube](youtube.com/watch?v=QnH-2lA189o).
 
