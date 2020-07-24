@@ -20,11 +20,13 @@ Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.p
 
 ## My group in Warsaw: 
 
-* dr Magdalena Sieniawska, 
 * Filip Morawski (PhD student), 
 * dr Jonas P. Pereira (post-doc), 
 * dr Paweł Ciecieląg (CAMK staff).
 
+### Previous members: 
+
+* dr Magdalena Sieniawska (PhD at CAMK). 
 
 # Software projects I like 
                 
@@ -32,6 +34,7 @@ Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.p
 * <a href="http://sagemanifolds.obspm.fr">SageManifolds</a> (Differential geometry and tensor calculus with Sage) with <a href="http://www.sagemath.org">Sage</a> (Software for Algebra and Geometry Experimentation)
 * <a href="http://www.lorene.obspm.fr">LORENE</a> (Langage Objet pour la RElativité NumériquE)
 * <a href="https://gwpy.github.io">gwpy</a> (python package for gravitational-wave astrophysics)
+* <a href="https://www.gw-openscience.org/about">GWOSC</a> (Gravitational Wave Open Science Center)
 
 # Collaborations
 
