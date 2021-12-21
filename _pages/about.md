@@ -10,7 +10,7 @@ I am fascinated by the extremes. In astrophysics, this means the [neutron stars]
 
 To learn more about these unusual objects, my research interests revolve around the [gravitational-wave](https://en.wikipedia.org/wiki/Gravitational_wave) data analysis methods (and, in general, methods of analysing the difficult, noisy data) and modeling of various astrophysical compact objects using numerical general relativity and dense matter physics. This often requires a lot of coding, the use of high-performance computing (with hardware accelerators like the [Graphical Processing Units](https://en.wikipedia.org/wiki/Graphics_processing_unit)) and the usage of novel types of [machine learning](https://en.wikipedia.org/wiki/Machine_learning) algorithms, like the [deep neural networks](https://en.wikipedia.org/wiki/Machine_learning).  
 
-I work at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="http://www.camk.edu.pl/">CAMK</a>) in Warsaw, Poland as an associate professor. In 2018 I've spent a year at the [APC](http://www.apc.univ-paris7.fr/APC_CS/) in Paris working in the [gravitation group](http://www.apc.univ-paris7.fr/APC_CS/en/gravitation-0) on problems related to astrophysics and machine learning. I'm also a work group leader in the COST action [G2Net](https://www.g2net.eu), studying Machine Learning applications in Gravitational-Wave astronomy. 
+I work at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="http://www.camk.edu.pl/">CAMK</a>) in Warsaw, Poland as an associate professor (currently on leave). In 2018 I've spent a year at the [APC](http://www.apc.univ-paris7.fr/APC_CS/) in Paris working in the [gravitation group](http://www.apc.univ-paris7.fr/APC_CS/en/gravitation-0) on problems related to astrophysics and machine learning. I'm also a work group leader in the COST action [G2Net](https://www.g2net.eu), studying Machine Learning applications in Gravitational-Wave astronomy. Since September 2021 I was hired at the Istituto Nazionale di Fisica Nucleare, Ferrara, Italy as an associate professor. 
 
 My published works are accesible online thanks to the 
 <a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and <a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> databases. 
@@ -18,7 +18,7 @@ My published works are accesible online thanks to the
 Here is my <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">scientific CV</a>.
  
 
-## My group in Warsaw: 
+## My collaborators in Warsaw: 
 
 * Filip Morawski (PhD student), 
 * dr Jonas P. Pereira (post-doc), 
