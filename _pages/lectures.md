@@ -19,7 +19,7 @@ header:
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/56_binary_system.pdf">Binary systems</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/7_bursts_continuous.pdf">Bursts and continuous waves</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/8_populations_cosmo.pdf">Populations and cosmology</a> 
-* <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/9_testing_gr.pdf">Testing GR</a> 
+* <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/9_testing_gr.pdf">Stochastic background. Testing GR</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/10_gwda_signal_processing.pdf">Signal processing</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/12_gwda_parameter_estimation.pdf">Parameter estimation</a> 
 
