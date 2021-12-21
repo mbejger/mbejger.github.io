@@ -16,7 +16,7 @@ header:
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/2_gr.pdf">Introduction to general relativity</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/3_detection-principles.pdf">Detection principles</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/4_detectors.pdf">Detectors</a> 
-* <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/56_binary.pdf">Binary systems</a> 
+* <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/56_binary_system.pdf">Binary systems</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/7_bursts_continuous.pdf">Bursts and continuous waves</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/8_populations_cosmo.pdf">Populations and cosmology</a> 
 * <a href="https://users.camk.edu.pl/bejger/gw-lecture2020/9_testing_gr.pdf">Testing GR</a> 
