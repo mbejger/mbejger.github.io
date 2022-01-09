@@ -1,6 +1,6 @@
 ---
 title: "Kick Off Workshop of the ET Observational Science Board" 
-excerpt: ""
+excerpt: "3rd generation GW detectors, here we go!"
 sitemap: true
 usemath: false  
 ---
