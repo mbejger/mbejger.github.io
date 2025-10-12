@@ -15,7 +15,7 @@ I work at the Nicolaus Copernicus Astronomical Center (<a target="_blank" href="
 In the meantime I participated in the COST action [G2Net](https://www.g2net.eu), studying Machine Learning applications in Gravitational-Wave astronomy as a work group leader. 
 
 Published works: 
-<a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and <a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> | <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">Scientific CV</a>.
+<a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and <a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> | <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">Scientific CV</a> 
  
 
 ## My collaborators in Warsaw: 
