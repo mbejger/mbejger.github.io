@@ -18,10 +18,13 @@ Published works:
 <a href="https://arxiv.org/search/?searchtype=author&query=Bejger&abstracts=show&size=200&order=-announced_date_first">arXiv</a> and <a href='https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A"Bejger%2C%20M"&sort=date%20desc%2C%20bibcode%20desc'>NASA ADS</a> | <a target="_blank" href="http://users.camk.edu.pl/bejger/mbejger_cv.pdf">Scientific CV</a> 
  
 
-## My collaborators in Warsaw: 
+## My collaborators:
 
 * Sudhagar Suyamprakasam (PhD student),
 * Anirudh Nemmani (PhD student),
+* Matteo Scialpi (PhD student at the University of Ferrara/INFN Ferrara, Italy),
+* Valeria Carvalho (PhD student, co-advised with prof. Constança Providência and dr Márcio Ferreira from University of Coimbra, Portugal),
+* dr Sreekanth Harikumar (post-doc),
 * dr Przemysław Figura (post-doc),
 * dr Paweł Ciecieląg (CAMK staff).
 
